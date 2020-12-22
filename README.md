@@ -2,6 +2,8 @@
   <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
 </a>
 
+Forked from [stackrole/gatsby-starter-foundation](https://github.com/stackrole/gatsby-starter-foundation)
+
 # Foundation
 
 A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifyCMS].
