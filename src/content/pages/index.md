@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Specializing in **fast** single page websites for singer-songwriters and bands, as well as Electronic Press Kit (EPK) development.
+Specializing in **fast** single page websites for artists, as well as Electronic Press Kit (EPK) development.
