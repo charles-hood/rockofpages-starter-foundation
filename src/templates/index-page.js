@@ -44,7 +44,7 @@ const HomePage = ({ data }) => {
       <SEO/>
       <div className="home-banner grids col-1 sm-2">
         <div>
-          <h3 class="title">{frontmatter.title}</h3>
+          <h1 class="title">{frontmatter.title}</h1>
           <p 
             class="tagline"
             sx={{
