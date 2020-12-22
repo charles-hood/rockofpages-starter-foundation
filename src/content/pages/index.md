@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Rock of Pages
 tagline: We create web Pages that Rock for musicians of every genre.
-featuredImage: /assets/rop-vintage-logo.jpg
+featuredImage: /assets/rop-vintage-logo-square.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
