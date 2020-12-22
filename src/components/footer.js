@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>Developed using Gatsby with the Foundation theme. Content Copyright © 2020 by <Link to="/">Rock of Pages</Link></p>
+      <p>Content Copyright © 2020 by <Link to="/">Rock of Pages</Link></p>
     </div>
   </footer>
 )
