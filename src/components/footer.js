@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
+      <p>Developed using Gatsby with the Foundation theme. Content Copyright © 2020 by <Link to="/">Rock of Pages</Link></p>
     </div>
   </footer>
 )
